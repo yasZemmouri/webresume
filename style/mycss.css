@@ -91,13 +91,13 @@ h1 span {
 /*====================Aside======================*/
 aside {
   background-color: #f3e9e3;
-  width: 220px;
+  width: 228px;
   position: absolute;
   left: 15px;
   top: 15px;
   bottom: 15px;
   text-align: center;
-  padding: 10px;
+  padding: 15px 8px;
 }
 /*---------Profile picture -----------*/
 .profile {
@@ -130,7 +130,7 @@ h2 {
   color: white;
   border-radius: 50%;
   padding: 5px;
-  margin-right: 4px;
+  margin-right: 3px;
   width: 25px;
   height: 25px;
   font-size: 14px;
@@ -142,12 +142,12 @@ li a img[src="img/sigmaFavicon.png"] {
   width: 25px;
   height: 25px;
   vertical-align: middle;
-  margin-right: 4px;
+  margin-right: 3px;
 }
 .fa-github {
   font-size: 25px;
   vertical-align: middle;
-  margin-right: 4px;
+  margin-right: 3px;
 }
 li .table {
   display: table-row;
@@ -162,9 +162,10 @@ p {
   line-height: 1.5;
   margin-bottom: 0.7em;
 }
+
 /*============= MAIN ==================*/
 main {
-  margin-left: 235px;
+  margin-left: 240px;
 }
 main h2 {
   background-color: #f3e9e3;
